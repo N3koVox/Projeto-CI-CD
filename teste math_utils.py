@@ -7,7 +7,7 @@ class TestMathUtils(unittest.TestCase):
         self.assertEqual(add(-2,2),0)
 
     def test_subtract(self):
-        self.assertEqual(add(7,4),3)
+        self.assertEqual(add(7,5),2)
         self.assertEqual(add(0,0),0)
 
 if __name__ == '__main__':
